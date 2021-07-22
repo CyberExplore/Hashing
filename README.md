@@ -1,7 +1,7 @@
 # Hashing
 
 
-This Repository contains codes which are not complete. They are left incomplete intentionally for the user as an assignment.
+This Repository contains code which are not complete. They are left incomplete intentionally for the user as an assignment.
 
 It is recommended to watch the video tutorials first which explains the concepts in detail.
 
